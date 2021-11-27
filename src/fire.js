@@ -6,6 +6,8 @@ const firebaseConfig = {
 
   authDomain: "student-e1245.firebaseapp.com",
 
+  databaseURL: "https://student-e1245-default-rtdb.asia-southeast1.firebasedatabase.app",
+
   projectId: "student-e1245",
 
   storageBucket: "student-e1245.appspot.com",
