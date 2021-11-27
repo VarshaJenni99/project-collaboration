@@ -9,6 +9,7 @@ import Typography from '@material-ui/core/Typography';
 import Grid from '@material-ui/core/Grid';
 import swal from 'sweetalert';
 
+//UI to display projects uploaded by professors on student dashboard
 const useStyles = makeStyles({
   root: {
     minWidth: 275,

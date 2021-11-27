@@ -3,6 +3,7 @@ import React from 'react';
 import {Fire} from '../../fire'
 import StudentFunctions from './StudentFunctions.js'
 
+//student dashboard after the student logs in 
 const Dash=(props)=> {
 const { handleLogout} = props;
 const user = Fire.auth().currentUser;

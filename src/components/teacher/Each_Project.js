@@ -9,6 +9,7 @@ import Typography from '@material-ui/core/Typography';
 import Grid from '@material-ui/core/Grid';
 import swal from 'sweetalert';
 
+//displays each uploaded project as a display card
 const useStyles = makeStyles({
   root: {
     minWidth: 275,

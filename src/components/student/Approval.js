@@ -4,6 +4,7 @@ import Each_Approval from'./Each_Approval'
 import Grid from '@material-ui/core/Grid';
 import swal from 'sweetalert';
 
+//function to display approved projects on student dashboard
 export default function Approval() {
 
 const [projectList, setProjList]= useState();

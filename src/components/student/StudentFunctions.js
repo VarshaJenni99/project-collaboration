@@ -4,6 +4,7 @@ import {Fire} from '../../fire'
  import {Link} from 'react-router-dom'
  import swal from 'sweetalert';
 
+//displays the student function and routes to the functionality when clicked
 export default function Resume() {
 
   const [title,setTitle]=useState('');

@@ -5,7 +5,7 @@ import LoginT from './LoginT';
 // import admin from '../admin'
 import TeacherFunctions from './TeacherFunctions.js'
 
-
+//displays teacher functionalities and routes to the functionalities when clicked
 const DashT=(props)=> {
 const { handleLogout} = props;
 const user = FireT.auth().currentUser;

@@ -3,6 +3,8 @@ import {FireT} from '../../fire'
 import EachApplication from './EachApplication'
 import Grid from '@material-ui/core/Grid';
 
+
+//displays applications by students
 export default function Applications() {
 
 const [projectList, setProjList]= useState();

@@ -5,6 +5,8 @@ import {Fire} from '../../fire'
 import Login from './LoginS'
 
 import Dash from './DashS.js'
+
+//handles student login
 function StudentLogin() {
 
   const [user, setUser]=useState('');

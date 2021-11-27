@@ -1,5 +1,7 @@
 import React from 'react';
 import {Link} from 'react-router-dom'
+
+//home page of the application
 const Main=()=>{
 
   return (

@@ -10,6 +10,7 @@ import Grid from '@material-ui/core/Grid';
 import Link from '@material-ui/core/Link';
 import swal from 'sweetalert';
 
+//displays each application by student as a display card
 const useStyles = makeStyles({
   root: {
     minWidth: 275,

@@ -4,6 +4,7 @@ import LoginT from './LoginT'
 // import * as admin from "firebase-admin";
 // import admin from '../admin'
 
+//handles teacher login
 import DashT from './DashT.js'
 function TeacherLogin() {
 

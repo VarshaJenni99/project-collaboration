@@ -9,6 +9,7 @@ import Typography from '@material-ui/core/Typography';
 import Grid from '@material-ui/core/Grid';
 import Link from '@material-ui/core/Link';
 
+//displays each approved project as a display card
 const useStyles = makeStyles({
   root: {
     minWidth: 275,

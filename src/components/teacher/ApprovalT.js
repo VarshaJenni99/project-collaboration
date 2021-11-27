@@ -4,6 +4,7 @@ import Each_ApprovalT from'./Each_ApprovalT'
 
 import Grid from '@material-ui/core/Grid';
 
+//function to enable techers to approve projects
 export default function ApprovalT() {
 
 const [projectList, setProjList]= useState();

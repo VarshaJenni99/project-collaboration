@@ -1,5 +1,6 @@
 import React from 'react';
 
+//handles teacher login
 const LoginT=(props)=>{
 
 const {email, setEmail, password, setPassword, handleLogin, handleSignup, hasAccount, setHasAccount, emailError, passwordError}= props;

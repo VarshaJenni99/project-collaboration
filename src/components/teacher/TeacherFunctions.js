@@ -3,7 +3,7 @@ import {FireT} from '../../fire'
  import {useState} from 'react'
  import {Link} from 'react-router-dom'
  import swal from 'sweetalert';
-
+//displays teacher functionalities
 export default function Project() {
 
   const [title,setTitle]=useState('');

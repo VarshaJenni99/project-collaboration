@@ -3,6 +3,7 @@ import {FireT} from '../../fire'
 import Apply from'./Apply'
 import Grid from '@material-ui/core/Grid';
 
+//students can view and apply for projects uploaded by professors
 export default function Student_apply() {
 
 const [projectList, setProjList]= useState();

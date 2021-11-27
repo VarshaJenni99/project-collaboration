@@ -10,6 +10,7 @@ import Typography from '@material-ui/core/Typography';
 import Grid from '@material-ui/core/Grid';
 import Link from '@material-ui/core/Link';
 
+//displays individual display cards of approved projects on student dashboard
 const useStyles = makeStyles({
   root: {
     minWidth: 275,
